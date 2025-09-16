@@ -3,4 +3,4 @@ need to pull this file down
 after pulling this file down, I decided to make anothe change
 adding some addtional configurations
 found a couple of more config values that are needed
-I want examine the Git tree one more time while my local branch has diverge from the remote branch.
+I want examine the Git tree one more time while my local branch has diverged from the remote branch.
