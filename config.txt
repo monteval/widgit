@@ -1,3 +1,4 @@
 some configurations that were checked in after init
 need to pull this file down
 after pulling this file down, I decided to make anothe change
+adding some addtional configurations
